@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1508099512 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungecuttdiffeq\functions.c
+	<math.h>
+
+1508098679 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungecuttdiffeq\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508106970 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungecuttdiffeq\integral.c
+
+1509339838 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungekuttdiffeq\functions.c
+	<math.h>
+
+1509339546 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungekuttdiffeq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1508168294 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungekuttdiffeq\meuler.c
+
+1509291882 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungekuttdiffeq\resize.c
+	<math.h>
+
+1509339447 source:c:\users\senot_000\documents\programs\Ñ\calculations\rungekuttdiffeq\rk.c
+	<stdlib.h>
+
+1509892453 source:c:\users\senot_000\documents\programs\c\calculations\rungekuttdiffeq\functions.c
+	<math.h>
+
+1509898716 source:c:\users\senot_000\documents\programs\c\calculations\rungekuttdiffeq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1508168294 source:c:\users\senot_000\documents\programs\c\calculations\rungekuttdiffeq\meuler.c
+
+1509343012 source:c:\users\senot_000\documents\programs\c\calculations\rungekuttdiffeq\resize.c
+	<math.h>
+
+1509898716 source:c:\users\senot_000\documents\programs\c\calculations\rungekuttdiffeq\rk.c
+	<stdlib.h>
+
